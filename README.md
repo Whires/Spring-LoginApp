@@ -6,7 +6,7 @@ Very simple app with login and logout capabilities. App was made via Laur's Spil
 ![spring-quickly](https://github.com/user-attachments/assets/8809cbd8-f9d8-4ebf-912d-2bcdeccf71ba)
 
 
-Very good book for people starting to learn Spring and Spring boot. Covers all basic topics, doesn't go into random details and explains everything in basic allegories.
+Very good book for people starting to learn Spring and Spring boot. Covers all basic topics, doesn't go into random details and explains everything in basic allegories AND uses **Maven** instead of the god forsaken ~Gradle~...
 
 # That's it!
 
